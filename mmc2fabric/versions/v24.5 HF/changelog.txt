@@ -1,3 +1,0 @@
-## MMC2 Fabric v24.5 HF
-Hotfix:
-- Downgraded Armorful (Caused a crash)
